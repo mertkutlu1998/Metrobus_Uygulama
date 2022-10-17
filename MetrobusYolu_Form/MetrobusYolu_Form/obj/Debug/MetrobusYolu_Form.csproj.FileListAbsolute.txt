@@ -1,0 +1,11 @@
+C:\Users\Mert\Desktop\iskuregitimi\MetrobusYolu_Form\MetrobusYolu_Form\bin\Debug\MetrobusYolu_Form.exe.config
+C:\Users\Mert\Desktop\iskuregitimi\MetrobusYolu_Form\MetrobusYolu_Form\bin\Debug\MetrobusYolu_Form.exe
+C:\Users\Mert\Desktop\iskuregitimi\MetrobusYolu_Form\MetrobusYolu_Form\bin\Debug\MetrobusYolu_Form.pdb
+C:\Users\Mert\Desktop\iskuregitimi\MetrobusYolu_Form\MetrobusYolu_Form\obj\Debug\MetrobusYolu_Form.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\iskuregitimi\MetrobusYolu_Form\MetrobusYolu_Form\obj\Debug\MetrobusYolu_Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mert\Desktop\iskuregitimi\MetrobusYolu_Form\MetrobusYolu_Form\obj\Debug\MetrobusYolu_Form.Form1.resources
+C:\Users\Mert\Desktop\iskuregitimi\MetrobusYolu_Form\MetrobusYolu_Form\obj\Debug\MetrobusYolu_Form.Properties.Resources.resources
+C:\Users\Mert\Desktop\iskuregitimi\MetrobusYolu_Form\MetrobusYolu_Form\obj\Debug\MetrobusYolu_Form.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\iskuregitimi\MetrobusYolu_Form\MetrobusYolu_Form\obj\Debug\MetrobusYolu_Form.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\iskuregitimi\MetrobusYolu_Form\MetrobusYolu_Form\obj\Debug\MetrobusYolu_Form.exe
+C:\Users\Mert\Desktop\iskuregitimi\MetrobusYolu_Form\MetrobusYolu_Form\obj\Debug\MetrobusYolu_Form.pdb

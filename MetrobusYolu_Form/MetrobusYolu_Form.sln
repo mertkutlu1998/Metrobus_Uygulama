@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetrobusYolu_Form", "MetrobusYolu_Form\MetrobusYolu_Form.csproj", "{F058B8D9-21E5-4FE5-B81C-C822F737759F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F058B8D9-21E5-4FE5-B81C-C822F737759F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F058B8D9-21E5-4FE5-B81C-C822F737759F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F058B8D9-21E5-4FE5-B81C-C822F737759F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F058B8D9-21E5-4FE5-B81C-C822F737759F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F20DC70-6B05-4C35-AAF8-3DC7AF04A2C5}
+	EndGlobalSection
+EndGlobal
